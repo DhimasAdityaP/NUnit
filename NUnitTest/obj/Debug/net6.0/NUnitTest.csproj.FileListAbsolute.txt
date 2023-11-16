@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\bin\Debug\net6.0\NUnitTest.exe
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\bin\Debug\net6.0\NUnitTest.deps.json
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\bin\Debug\net6.0\NUnitTest.runtimeconfig.json
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\bin\Debug\net6.0\NUnitTest.dll
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\bin\Debug\net6.0\NUnitTest.pdb
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.AssemblyInfo.cs
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.csproj.CopyComplete
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.dll
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\refint\NUnitTest.dll
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.pdb
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\NUnitTest.genruntimeconfig.cache
+C:\Users\Hp\source\repos\NUnitTest\NUnitTest\obj\Debug\net6.0\ref\NUnitTest.dll
